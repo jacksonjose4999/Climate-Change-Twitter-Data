@@ -1,0 +1,10 @@
+count,TweetId,TimeStamp,Tweet,LocationName_User,Latitude,Longitude,BoundingPoint,User Mentions,URLs,Hashtags,Fav_Count,Followers_Count
+,,,,,,,,,,,,
+1,1.22876E+18,15-02-2020 19:05,"Green shoots of new greening - Greenpeace, Google, #UNFCC, Republican US Senator, Dutch General, Democratic US Senator together on panel at #MSC2020 discussing action on climate change https://t.co/PSx0b8XOlx",,NA,NA,NA,['dansmith2020'],[],['UNFCC'],1742,128
+,,,,,,,,,,,,
+2,1.22874E+18,15-02-2020 17:42,"Green shoots of new greening - Greenpeace, Google, #UNFCC, Republican US Senator, Dutch General, Democratic US Senator together on panel at #MSC2020 discussing action on climate change https://t.co/PSx0b8XOlx",Stockholm,NA,NA,"[[[11.360589, 48.061634], [11.722918, 48.061634], [11.722918, 48.248124], [11.360589, 48.248124]]]",[],[],"['MSC2020', 'UNFCC']",1058,2905
+,,,,,,,,,,,,
+3,1.22837E+18,14-02-2020 17:31,"Clean &amp; Green Mirpur Walk 2020
+#GreenMirpur #PledgeForGreen #GoGreen #muslimhands #Environment #Health #ajk #mirpurajk #unfcc #cleanandgreenpakistan
+#SDGs4All Goal no. 13: Climate Action
+#sdgs #globalgoals #development #impact #2k20 https://t.co/dsg1DKkkAj",Mirpur Azad Kashmir,NA,NA,NA,['MuslimHandsMRP'],[],"['mirpurajk', 'ajk', 'Health', 'Environment', 'muslimhands', 'GoGreen', 'PledgeForGreen', 'GreenMirpur']",314,301
